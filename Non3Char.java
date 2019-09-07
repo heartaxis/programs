@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.random;
 
 class Non3Char {
     public String solution(int A, int B) {

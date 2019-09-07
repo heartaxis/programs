@@ -1,17 +1,20 @@
-package com.practice.programs.random;
+package com.programs.random;
+
+
+
 
 public class HeightBinaryTree {
 	public static void main(String[] args) {
-		// root level 0
-		Node A = Node.createNode(11);
+		/*// root level 0
+		SLNode A = SLNode.createNode(11);
 		// Level 1
-		Node B = Node.createNode(2);
-		Node C = Node.createNode(5);
+		SLNode B = SLNode.createNode(2);
+		SLLNode C = SLLNode.createNode(5);
 		// Level 2
-		Node D = Node.createNode(6);
-		Node E = Node.createNode(15);
-		Node F = Node.createNode(14);
-		Node G = Node.createNode(13);
+		SLLNode D = SLLNode.createNode(6);
+		SLLNode E = SLLNode.createNode(15);
+		SLLNode F = SLLNode.createNode(14);
+		SLLNode G = SLLNode.createNode(13);
 		// Level 3
 
 		// connect Level 0 and 1
@@ -27,6 +30,6 @@ public class HeightBinaryTree {
 		int height = BinaryTree.heightOfTree(A);
 		if (height > 0) {
 			System.out.println("Height of a Binary Tree is : " + height);
-		}
+		}*/
 	}
 }

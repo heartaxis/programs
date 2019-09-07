@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.random;
 //find the maximum of two numbers without using if else condition
 public class Max {
 	public static void main(String[] args) {

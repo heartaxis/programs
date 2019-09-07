@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.random;
 // find single digit step
 public class FindSingleDigitStep {
 

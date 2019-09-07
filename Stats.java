@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.hackerrank;
 
 import java.util.*;
 import java.util.concurrent.*;

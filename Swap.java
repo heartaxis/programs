@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.random;
 //swap two numbers without third variable
 public class Swap {
 

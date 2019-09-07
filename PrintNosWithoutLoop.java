@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.random;
 //Print a character 10 times without using loop and recursion.
 
 public class PrintNosWithoutLoop {

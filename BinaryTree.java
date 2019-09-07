@@ -1,4 +1,5 @@
-package com.practice.programs.random;
+package com.programs.random;
+
 
 public class BinaryTree {
 

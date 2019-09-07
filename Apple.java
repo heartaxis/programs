@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.hackerrank;
 
 import java.util.ArrayList;
 import java.util.Arrays;

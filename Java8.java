@@ -1,4 +1,4 @@
-package com.practice.programs.random;
+package com.programs.random;
 
 import java.util.Arrays;
 import java.util.List;
