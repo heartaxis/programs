@@ -1,4 +1,4 @@
-package com.amazon.others;
+package com.practice.programs.random;
 
 import java.math.BigInteger;
 

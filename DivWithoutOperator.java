@@ -1,4 +1,4 @@
-package comm;
+package com.practice.programs.random;
 /*
  write a program to perform divison operation of two numbers without using /, %, and modules operatot
  */

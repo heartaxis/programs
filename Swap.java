@@ -1,4 +1,4 @@
-package com.amazon.others;
+package com.practice.programs.random;
 //swap two numbers without third variable
 public class Swap {
 

@@ -1,6 +1,6 @@
-package com.amazon.chapter1;
+package com.practice.programs.random;
 
-public class ReplaceSpaces_1_5 {
+public class ReplaceSpaces {
 
 	public static void main(String[] args) {
 		String str="sant osh kum ar bag hel";

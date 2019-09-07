@@ -1,11 +1,11 @@
-package com.amazon.chapter1;
+package com.practice.programs.random;
 
 
-public class Rotation_1_8 {
+public class Rotation {
 	String str;
 	String str1;
 	
-	public Rotation_1_8(String str,String str1){
+	public Rotation(String str,String str1){
 		this.str=str;
 		this.str1=str1;
 	}
@@ -19,7 +19,7 @@ public class Rotation_1_8 {
 		}
 	}
 	public static void main(String[] args) {
-		Rotation_1_8 obj=new Rotation_1_8("santosh","toshsan");
+		Rotation obj=new Rotation("santosh","toshsan");
 		System.out.println(obj.str);
 		System.out.println(obj.str1);
 		System.out.println("rotation status->"+obj.isSubstring());

@@ -1,3 +1,5 @@
+package com.practice.programs.random;
+
 
 public class FindTotalPosCountInStr {
 	public static void main(String[] args) {

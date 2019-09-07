@@ -1,4 +1,4 @@
-package com.flipkart;
+package com.practice.programs.random;
 
 import java.util.ArrayList;
 import java.util.Arrays;

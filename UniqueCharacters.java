@@ -1,10 +1,10 @@
-package com.amazon.chapter1;
+package com.practice.programs.random;
 
-public class UniqueCharacters_1_1 {
+public class UniqueCharacters {
 
 	String str;
 	
-	public UniqueCharacters_1_1(String str){
+	public UniqueCharacters(String str){
 		this.str=str;
 	}
 	
@@ -21,7 +21,7 @@ public class UniqueCharacters_1_1 {
 		return true;
 	}
 	public static void main(String[] args) {
-		UniqueCharacters_1_1 obj=new UniqueCharacters_1_1("santoh");
+		UniqueCharacters obj=new UniqueCharacters("santoh");
 		boolean status=obj.getDuplicateStatus();
 		if(status){
 			status=false;

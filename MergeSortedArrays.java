@@ -1,4 +1,4 @@
-package comm;
+package com.practice.programs.random;
 
 public class MergeSortedArrays {
 
